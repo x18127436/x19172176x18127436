@@ -1,0 +1,7 @@
+Initially, the intention was to create a centralized restaurant reservation system web application. 
+However, as the project progressed, the decision was made to create where users can schedule and pay for individual counselling sessions with a 
+medically trained professional instead.
+
+Midway through the project, my partner withdrew from the course and the workload doubled as a result.
+
+The project itself was challenging but overall, it was an enjoyable and worthwhile experience.
